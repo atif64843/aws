@@ -1,0 +1,4 @@
+com\aws\controller\StorageController.class
+com\aws\service\StorageService.class
+com\aws\FileStorageServiceApplication.class
+com\aws\config\StorageConfig.class
